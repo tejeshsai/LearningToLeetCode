@@ -19,6 +19,8 @@
 # Time Complexity: O(n) - we need to traverse the entire list once
 # Space Complexity: O(1) - we only use a constant amount of extra space
 
+from typing import Optional
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
