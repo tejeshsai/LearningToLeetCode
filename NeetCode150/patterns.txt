@@ -1,0 +1,36 @@
+Useful Patterns I found while I am learning to LeetCode
+
+1. Anagrams : Use count = [0]*26, use this to group anagrams of particular string. Best for:
+   - Valid Anagram
+   - Group Anagrams
+   - Find All Anagrams in String
+   - When strings have same characters in different order
+
+2. Top K : Use Bucket = [[] for _ in range(len(array)+1)] to store frequency of items. Best for:
+   - Top K Frequent Elements
+   - Kth Largest Element
+   - Frequency Sort
+   - When you need elements based on frequency/rank
+
+3. Two Pointers : Use left and right pointers for array problems, especially with sorted arrays. Best for:
+   - Two Sum II
+   - Container With Most Water
+   - Trapping Rain Water
+   - When array is sorted and you need to find pairs
+
+4. Hashmap for Lookup : Use dictionary for O(1) lookups and to store frequencies. Best for:
+   - Two Sum
+   - Contains Duplicate
+   - First Unique Character
+   - When you need O(1) lookups and frequency tracking
+
+5. String Manipulation : Use length + delimiter + string format for encoding/decoding. Best for:
+   - Encode and Decode Strings
+   - Serialize/Deserialize Binary Tree
+   - When you need to convert complex data to string and back
+
+6. Set Pattern : Use set() for O(1) lookups and removing duplicates. Best for:
+   - Checking duplicates (Contains Duplicate)
+   - Finding unique elements
+   - Intersection/Union operations
+   - Removing duplicates from array
