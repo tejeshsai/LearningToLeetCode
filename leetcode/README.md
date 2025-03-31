@@ -17,6 +17,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | 242 | [Valid Anagram](242_valid_anagram.py) | Easy | Hash Table, String | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
 | 271 | [Encode and Decode Strings](271_encode_and_decode_strings.py) | Medium | String, Design | [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) |
 | 347 | [Top K Frequent Elements](347_top_k_frequent_elements.py) | Medium | Array, Hash Table, Heap | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 938 | [Range Sum of BST](938_range_sum_of_bst.py) | Easy | Tree, BST, DFS | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) |
 
 ## Problem Categories
 
@@ -28,6 +29,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Reverse Linked List
 - Contains Duplicate
 - Valid Anagram
+- Range Sum of BST
 
 ### Medium Problems
 - Swap Nodes in Pairs
@@ -43,6 +45,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Linked List
 - Tree
 - String
+- Binary Search Tree (BST)
 
 ### Algorithms
 - Two Pointers
