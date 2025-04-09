@@ -14,9 +14,12 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | 110 | [Balanced Binary Tree](110_balanced_binary_tree.py) | Easy | Tree, DFS | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) |
 | 206 | [Reverse Linked List](206_reverse_linked_list.py) | Easy | Linked List | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 | 217 | [Contains Duplicate](217_contains_duplicate.py) | Easy | Array, Hash Table | [LeetCode](https://leetcode.com/problems/contains-duplicate/) |
+| 230 | [Kth Smallest Element in BST](230_kth_smallest_element_in_bst.py) | Medium | Tree, BST, DFS | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |
 | 242 | [Valid Anagram](242_valid_anagram.py) | Easy | Hash Table, String | [LeetCode](https://leetcode.com/problems/valid-anagram/) |
 | 271 | [Encode and Decode Strings](271_encode_and_decode_strings.py) | Medium | String, Design | [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/) |
+| 295 | [Find Median from Data Stream](295_find_median_from_data_stream.py) | Hard | Heap, Design | [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) |
 | 347 | [Top K Frequent Elements](347_top_k_frequent_elements.py) | Medium | Array, Hash Table, Heap | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) |
+| 815 | [Bus Routes](815_bus_routes.py) | Hard | Graph, BFS | [LeetCode](https://leetcode.com/problems/bus-routes/) |
 | 938 | [Range Sum of BST](938_range_sum_of_bst.py) | Easy | Tree, BST, DFS | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) |
 
 ## Problem Categories
@@ -36,6 +39,11 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Group Anagrams
 - Encode and Decode Strings
 - Top K Frequent Elements
+- Kth Smallest Element in BST
+
+### Hard Problems
+- Find Median from Data Stream
+- Bus Routes
 
 ## Topics Covered
 
@@ -46,12 +54,16 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Tree
 - String
 - Binary Search Tree (BST)
+- Heap
+- Graph
 
 ### Algorithms
 - Two Pointers
 - Hash Table
 - Depth-First Search (DFS)
 - Design
+- Heap (Priority Queue)
+- Breadth-First Search (BFS)
 
 ## Getting Started
 
