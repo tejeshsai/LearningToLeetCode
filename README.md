@@ -21,6 +21,10 @@ This repository contains solutions to various LeetCode problems. Each solution i
 | 347 | [Top K Frequent Elements](leetcode/347_top_k_frequent_elements.py) | Medium | Array, Hash Table, Heap | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/) |
 | 815 | [Bus Routes](leetcode/815_bus_routes.py) | Hard | Graph, BFS | [LeetCode](https://leetcode.com/problems/bus-routes/) |
 | 938 | [Range Sum of BST](leetcode/938_range_sum_of_bst.py) | Easy | Tree, BST, DFS | [LeetCode](https://leetcode.com/problems/range-sum-of-bst/) |
+| 2707 | [Extra Characters in String](leetcode/2707_extra_characters_in_string.py) | Medium | Dynamic Programming, String | [LeetCode](https://leetcode.com/problems/extra-characters-in-a-string/) |
+| 1268 | [Search Suggestions System](leetcode/1268_search_suggestions_system.py) | Medium | String, Trie, Design | [LeetCode](https://leetcode.com/problems/search-suggestions-system/) |
+| 208 | [Implement Trie (Prefix Tree)](leetcode/208_implement_trie.py) | Medium | String, Trie, Design | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| 2707 | [Index Pairs of String](leetcode/2707_index_pairs_of_string.py) | Easy | String, Trie | [LeetCode](https://leetcode.com/problems/index-pairs-of-a-string/) |
 
 ## Problem Categories
 
@@ -33,6 +37,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Contains Duplicate
 - Valid Anagram
 - Range Sum of BST
+- Index Pairs of String
 
 ### Medium Problems
 - Swap Nodes in Pairs
@@ -40,6 +45,9 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Encode and Decode Strings
 - Top K Frequent Elements
 - Kth Smallest Element in BST
+- Extra Characters in String
+- Search Suggestions System
+- Implement Trie (Prefix Tree)
 
 ### Hard Problems
 - Find Median from Data Stream
@@ -56,6 +64,7 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Binary Search Tree (BST)
 - Heap
 - Graph
+- Trie
 
 ### Algorithms
 - Two Pointers
@@ -64,6 +73,8 @@ This repository contains solutions to various LeetCode problems. Each solution i
 - Design
 - Heap (Priority Queue)
 - Breadth-First Search (BFS)
+- Dynamic Programming
+- Trie Operations
 
 ## Getting Started
 
